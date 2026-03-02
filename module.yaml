@@ -1,0 +1,12 @@
+name: oh-my-zsh-theme-vini4
+description: Custom Oh My Zsh Powerline-style theme with git, venv, and tmux segments
+platforms:
+  - macos
+  - linux
+links:
+  - source: vini4.zsh-theme
+    target: ~/.oh-my-zsh/custom/themes/vini4.zsh-theme
+dependencies:
+  brew: []
+  apt: []
+  pacman: []
