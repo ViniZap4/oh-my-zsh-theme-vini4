@@ -7,6 +7,18 @@ links:
   - source: vini4.zsh-theme
     target: ~/.oh-my-zsh/custom/themes/vini4.zsh-theme
 dependencies:
-  brew: []
-  apt: []
-  pacman: []
+  brew:
+    - zsh
+    - curl
+  apt:
+    - zsh
+    - curl
+  pacman:
+    - zsh
+    - curl
+  dnf:
+    - zsh
+    - curl
+  zypper:
+    - zsh
+    - curl
